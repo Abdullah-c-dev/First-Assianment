@@ -1,0 +1,123 @@
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+/* navstyle */
+nav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin:0px 160px ;
+    
+}
+.nav-title{
+    font-weight: 700;
+    font-size: 32px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+nav li{
+    list-style: none;
+}
+
+/* shared style */
+.btn-primary{
+    background-color: rgb(255, 255, 255);
+    font-weight: 600;
+    color: #006A50;
+    padding: 15px 30px;
+    border-radius: 8px;
+    border-color:#006A50 ;
+    cursor: pointer;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.button2{
+    background-color: #006A50;
+    color:#FFFFFF;
+    border-radius: 8px;
+    border: none;
+    padding: 17px 34px;
+    font-weight: 500px;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
+
+
+
+
+.section-title{
+    
+}
+.h2head{
+    color: #797979;
+   
+}
+
+
+.background1{
+    background-color: #C6E4D6;
+    display: flex;
+    border-radius: 24px;
+    padding: 160px 160px ;
+    padding-left: 160px;
+    padding-right: 160px;
+    justify-content:space-between;
+    max-width: 1280px;
+    max-height: 560px;
+    margin: 0 auto;
+    
+    
+/* banner content. */
+}
+.banner{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.banner-content{
+    /* padding: 117px 598px 170px 60px; */
+    max-width: 622px ;
+    max-height: 326px;
+}
+.hero{
+    /* padding: 80px 60px 80px 0px; */
+    /* max-width: 474px; */
+    /* max-height: 400px; */
+    margin-left: 300px;
+    
+}
+
+/* text color  */
+.para1{
+    font-weight: bold;
+    font-size:56px;
+
+
+}
+/* jamela no1 */
+
+.midborder{
+    /* justify-content: space-between; */
+    
+}
+/* section-future-bd */
+.future-bd{
+    /* text-align: center; */
+    display: flex;
+    max-width: 1280px;
+    margin:0px 160px ;
+    justify-content: center;
+    
+}
+.bdfuture{
+    text-align: center;
+}
+
+
+
+
+
+
+
